@@ -1,0 +1,12 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs/SouKoBan
+/.vsconfig
+/Assembly-CSharp.csproj
+/Library
+/Logs
+/obj/Debug
+/SouKoBan.sln
+/Temp
